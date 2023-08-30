@@ -2452,3 +2452,6 @@ video {
     }
   }
 }
+body {
+  padding: 15rem;
+}
